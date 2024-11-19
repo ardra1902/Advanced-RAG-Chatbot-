@@ -1,0 +1,14 @@
+streamlit  
+python-dotenv  
+langchain  
+langchain-community  
+langchain-groq
+langchain-text-splitters  
+unstructured[pdf]==0.15.0  
+faiss-cpu  
+pytesseract
+transformers  
+sentence-transformers
+pytesseract
+nltk==3.8.1
+langchain-huggingface
